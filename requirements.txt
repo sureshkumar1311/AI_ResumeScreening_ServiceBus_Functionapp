@@ -1,0 +1,36 @@
+# Azure Functions
+azure-functions
+
+# Azure SDK
+azure-storage-blob
+azure-cosmos
+azure-servicebus
+azure-eventgrid
+
+# OpenAI
+openai
+
+# Document Parsing
+PyPDF2
+python-docx
+
+# Authentication & Security
+bcrypt
+python-jose[cryptography]
+passlib
+
+# Pydantic / Settings
+pydantic
+pydantic[email]
+pydantic-settings
+
+# FastAPI & Server
+fastapi
+uvicorn[standard]
+python-multipart
+gunicorn
+
+# Utilities
+python-dotenv
+httpx==0.27.2
+openpyxl
