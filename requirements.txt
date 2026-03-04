@@ -7,7 +7,7 @@ azure-cosmos
 azure-servicebus
 azure-eventgrid
 
-# OpenAI
+## OpenAI
 openai
 
 # Document Parsing
