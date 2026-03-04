@@ -2,7 +2,7 @@
 azure-functions
 
 # Azure SDK
-azure-storage-blob
+azure-storage-blob==12.19.0
 azure-cosmos
 azure-servicebus
 azure-eventgrid
